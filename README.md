@@ -1,6 +1,7 @@
 # erick-henrique 
 
-- Hi, I'm @erickbortoletto (Erik Henrique) - I'm interested in learning programming and information technology.                         
+- Hi, I'm @erickbortoletto (Erik Henrique) - I'm interested in learning programming and information technology.
+
 - I'm currently learning programming logic, git & github at Dio/Spread.
 
 - Estou procurando colaborar em distribuir conhecimento e ajudar no que for possivel 🙌. 
